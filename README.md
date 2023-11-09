@@ -1,1 +1,2 @@
 # Estudo-Front-End
+Este é um projeto de estudo realizado durante meus primeiros passos no desenvolvimento front-end. O objetivo principal é criar um website básico, aplicando os conhecimentos fundamentais de HTML e CSS.
